@@ -1,5 +1,0 @@
-INPUT x
-1 + 1
-108
-PRINT x
-QUIT

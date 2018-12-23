@@ -1,5 +1,0 @@
-INPUT x
-hello
-12
-PRINT x
-QUIT

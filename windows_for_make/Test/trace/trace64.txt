@@ -1,4 +1,0 @@
-INPUT x
-000
-PRINT x
-QUIT

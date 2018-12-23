@@ -1,3 +1,0 @@
-LET AMultiCharVariable = 3
-PRINT AMultiCharVariable
-QUIT

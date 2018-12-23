@@ -1,2 +1,0 @@
-PRINT 0 / 0
-QUIT

@@ -1,3 +1,0 @@
-LET x = 3
-LET x = x + y
-QUIT

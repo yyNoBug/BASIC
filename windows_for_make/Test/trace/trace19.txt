@@ -1,2 +1,0 @@
-PRINT 2 * 3
-QUIT

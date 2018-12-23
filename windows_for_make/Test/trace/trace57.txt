@@ -1,5 +1,0 @@
-INPUT x
-10
-LET x = x + x
-PRINT x
-QUIT
